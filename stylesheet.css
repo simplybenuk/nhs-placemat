@@ -9,3 +9,7 @@
 .infrastructure .list-group-item {
   background-color: #E8E8E8;
 }
+
+.list-group {
+  margin-top: 20px;
+}
